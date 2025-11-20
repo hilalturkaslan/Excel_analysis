@@ -1,1 +1,1 @@
-Excel analysis for do it analyst
+Excel analysis for do data analyst
