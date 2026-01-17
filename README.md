@@ -1,1 +1,1 @@
-Excel analysis for do  make than data analyst
+Excel analysis for done make data analyst
